@@ -1,0 +1,28 @@
+name: Bibiano
+favicon: null
+layout_spectrum: 0.32038060459308326
+typography_spectrum: 0.20442515378817916
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.49248288897797465
+  lightness: 0.09684213204309344
+  saturation: 0.5534958445932716
+  rhythmicContrast: 0.8045988061930984
+purpose: []
