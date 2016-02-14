@@ -1,7 +1,7 @@
 name: Bibiano
 favicon: null
-layout_spectrum: 0.32038060459308326
-typography_spectrum: 0.20442515378817916
+layout_spectrum: 1
+typography_spectrum: 0.64707
 cta:
   domain: null
   bucket: null
