@@ -1,7 +1,7 @@
 name: Bibiano
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.64707
+layout_spectrum: 0.25225
+typography_spectrum: 0.42866
 title: Bibiano
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
