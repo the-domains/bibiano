@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bibiano]]></title>
         <description><![CDATA[Bibiano]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bibiano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 22:16:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jul 2016 00:36:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bibiano/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We are never really there until the end so make the most out of the trip instead. </p>]]></description>
+            <link>https://thegrid.ai/bibiano/we-are-never-really-there-until-the-end-so-make-the-most-out/index.html</link>
+            <guid isPermaLink="false">98a90edd-c512-46a9-b73e-f6f11a8c7288</guid>
+            <pubDate>Thu, 07 Jul 2016 00:36:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello world! ]]></title>
-            <description><![CDATA[<article><h1>Hello world! </h1><p>I welcome myself to The Grid. This is my first post. I can edit or delete it later, then actually start blogging. For now, this serves as a test. </p></article>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <description><![CDATA[<p>I welcome myself to The Grid. This is my first post. I can edit or delete it later, then actually start blogging. For now, this serves as a test. </p>]]></description>
+            <link>https://thegrid.ai/bibiano/hello-world/index.html</link>
             <guid isPermaLink="false">6e53f04e-2bb5-464f-af1a-574001d52211</guid>
             <pubDate>Sun, 14 Feb 2016 22:16:15 GMT</pubDate>
         </item>
