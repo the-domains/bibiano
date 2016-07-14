@@ -4,7 +4,7 @@
         <description><![CDATA[Bibiano]]></description>
         <link>https://thegrid.ai/bibiano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 00:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 00:28:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bibiano/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello world! ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bibiano/hello-world/index.html</link>
             <guid isPermaLink="false">6e53f04e-2bb5-464f-af1a-574001d52211</guid>
             <pubDate>Thu, 14 Jul 2016 00:14:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Type Selection isn't working]]></title>
+            <description><![CDATA[<article><h1>Type Selection isn't working</h1><p>Why? Oh, why?</p></article>]]></description>
+            <link>https://thegrid.ai/bibiano/type-selection-isnt-working/index.html</link>
+            <guid isPermaLink="false">676ed215-cf1b-4097-bbbf-3af8c6a56fb7</guid>
+            <pubDate>Thu, 14 Jul 2016 00:28:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
