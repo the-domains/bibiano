@@ -4,8 +4,15 @@
         <description><![CDATA[Bibiano]]></description>
         <link>https://thegrid.ai/bibiano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 01:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 00:14:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bibiano/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello world! ]]></title>
+            <description><![CDATA[<p>I welcome myself to The Grid. This is my first post. I can edit or delete it later, then actually start blogging. For now, this serves as a test. </p>]]></description>
+            <link>https://thegrid.ai/bibiano/hello-world/index.html</link>
+            <guid isPermaLink="false">6e53f04e-2bb5-464f-af1a-574001d52211</guid>
+            <pubDate>Thu, 14 Jul 2016 00:14:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/897670a3-d6c7-494b-a56d-ce4b21930d8a.jpg" alt="" title="">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/bibiano/we-are-never-really-there-until-the-end-so-make-the-most-out/index.html</link>
             <guid isPermaLink="false">98a90edd-c512-46a9-b73e-f6f11a8c7288</guid>
             <pubDate>Thu, 07 Jul 2016 00:36:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hello world! ]]></title>
-            <description><![CDATA[<p>I welcome myself to The Grid. This is my first post. I can edit or delete it later, then actually start blogging. For now, this serves as a test. </p>]]></description>
-            <link>https://thegrid.ai/bibiano/hello-world/index.html</link>
-            <guid isPermaLink="false">6e53f04e-2bb5-464f-af1a-574001d52211</guid>
-            <pubDate>Sun, 14 Feb 2016 22:16:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
