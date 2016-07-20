@@ -1,20 +1,4 @@
-name: Bibiano
-favicon: null
-layout_spectrum: 0.49788
 typography_spectrum: 0.44705
-title: Bibiano
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -26,4 +10,25 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49788
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Bibiano
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: 'http://bibiano.io/'
+    url: 'http://bibiano.io/'
+    name: About
+    type: external
+favicon: null
+title: Bibiano
 purpose: []
