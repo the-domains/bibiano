@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Bibiano]]></title>
-        <description><![CDATA[Bibiano]]></description>
+        <title><![CDATA[UX, Social Media, HTML-CSS, Support Hero]]></title>
+        <description><![CDATA[UX, Social Media, HTML-CSS, Support Hero]]></description>
         <link>https://thegrid.ai/bibiano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 00:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 21:32:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bibiano/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello world! ]]></title>
-            <description><![CDATA[<p>I welcome myself to The Grid. This is my first post. I can edit or delete it later, then actually start blogging. For now, this serves as a test. </p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f42abc9-5a41-4272-8b50-17fdd3495a2e.png">]]></description>
             <link>https://thegrid.ai/bibiano/hello-world/index.html</link>
             <guid isPermaLink="false">6e53f04e-2bb5-464f-af1a-574001d52211</guid>
-            <pubDate>Thu, 14 Jul 2016 00:14:46 GMT</pubDate>
+            <pubDate>Wed, 20 Jul 2016 21:32:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Type Selection isn't working]]></title>
