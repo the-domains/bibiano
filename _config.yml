@@ -29,6 +29,10 @@ navigation:
     url: 'http://bibiano.io/'
     name: About
     type: external
+  - id: 'https://twitter.com/bibianowency'
+    url: 'https://twitter.com/bibianowency'
+    name: '@bibianowency'
+    type: external
 favicon: null
 title: Bibiano
 purpose: []
