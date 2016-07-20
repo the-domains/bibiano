@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T21:35:17.917Z'
+datePublished: '2016-07-20T21:37:23.875Z'
 sourcePath: _posts/2016-02-14-hello-world.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T21:35:17.111Z'
+dateModified: '2016-07-20T21:37:23.185Z'
 title: Bibiano Wenceslao
 publisher: {}
 description: >-
