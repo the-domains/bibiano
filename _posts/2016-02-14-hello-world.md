@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T21:32:24.325Z'
+datePublished: '2016-07-20T21:32:26.991Z'
 sourcePath: _posts/2016-02-14-hello-world.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-20T21:32:23.314Z'
+dateModified: '2016-07-20T21:32:26.470Z'
 title: ''
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ description: >-
   later, then actually start blogging. For now, this serves as a test.
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: hello-world/index.html
 _type: Article
 
