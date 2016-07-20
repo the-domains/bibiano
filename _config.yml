@@ -19,7 +19,13 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Bibiano
+author:
+  name: Bibiano Wenceslao
+  email: me@bibiano.io
+  url: 'http://bibiano.io/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8775aaf9-94d3-4a59-8bf0-3839857bae3b.png
+name: Bibiano Wenceslao
 cta:
   domain: null
   bucket: null
@@ -33,6 +39,7 @@ navigation:
     url: 'https://twitter.com/bibianowency'
     name: '@bibianowency'
     type: external
-favicon: null
-title: Bibiano
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/85d87c38-85ba-40c4-a58b-dee1161de371.png
+title: 'UX, Social Media, HTML-CSS, Support Hero'
 purpose: []
